@@ -1,0 +1,83 @@
+body{
+    margin: 0px;
+    font-family: 'Inconsolata', monospace;
+}
+.color{
+    color: coral;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 300px;
+}
+.half-width{
+    width: 50%; 
+    font-size: 25px;
+    padding-left: 30px;
+   
+    
+}
+.half-width img{
+    width: 100%;
+   
+}
+.button{
+    text-decoration: none;
+    width: 30px;
+    background-image: linear-gradient(coral, rgb(233, 158, 131));
+    color: floralwhite;
+    font-weight: 700px;
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+.top-banner{
+    background-image: url(images/shapes/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+
+
+.developer{
+    color: rgb(245, 150, 48) ;
+}
+
+.dream-big{
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.big{
+    font-size: 60px;
+}
+.experience-item{
+    width: 40%;
+    
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+   
+   
+}
+.Experiences-area{
+    image-rendering: url(images/shapes/exp-bg.png);
+    background-repeat: no-repeat;
+    
+}
+#baby-developer{
+  border-left: 7px solid;
+  border-image: linear-gradient(blue,cyan );
+  border-image-slice: 1;
+  border-radius: 20px;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(coral,tomato );
+    border-image-slice: 1;
+    
+}
+footer p{
+   text-align: center;
+   margin-bottom: 50px;
+}

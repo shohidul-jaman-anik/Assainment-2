@@ -1,0 +1,38 @@
+h1{
+    background-color: red;
+    display: inline;
+    margin: 20px;
+    
+}
+span{
+    background-color: royalblue;
+}
+div{
+    
+   height: 250px;
+   width: 200px;
+   padding: 45;
+}
+ 
+span{
+    display: inline-block;
+    background-color: tomato;
+    margin: 5px;
+ 
+}
+.devide{
+    display: flex;
+}
+.half-width{
+   border: 5px solid;
+   width: 50%;
+}
+.anik{
+    background-color: cornsilk;
+}
+.rana{
+   background-color: crimson;
+   
+  padding: 100px;
+  
+}
